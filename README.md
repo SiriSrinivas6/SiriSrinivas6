@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @SiriSrinivas6
-- 👀 I’m interested in java developer
+- 👋 Hi, I’m @Siri 
+- 👀 I’m interested in....
 - 🌱 I’m currently developing new projects
 - 📫 How to reach me through sirisrinivas69@gmail.com
 
