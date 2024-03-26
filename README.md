@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siri S</h1>
 <h3 align="center">🎓 Recent Graduate 🚀 | Data Analytics Enthusiast 📊</h3>
 
-- 🌱 I’m currently learning **Python for Data Science**
+- 🌱 I’m currently Doing Projects on **Data Analytics**
 
 - 📫 How to reach me **sirisrinivas69@gmail.com**
 
