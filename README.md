@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Siri S</h1>
-<h3 align="center">A passionate Python Programmer from India</h3>
+<h3 align="center">🎓 Recent Graduate 🚀 | Data Analytics Enthusiast 📊</h3>
 
 - 🌱 I’m currently learning **Python for Data Science**
 
